@@ -1,0 +1,2 @@
+# typroject
+bitcoin mining
